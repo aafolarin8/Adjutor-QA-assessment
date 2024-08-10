@@ -36,7 +36,7 @@ def signup(driver):
 
     signup_page.open_page("https://app.adjutor.io/signup")
     signup_page.enter_fullname(fake.name())
-    signup_page.enter_email("afol@mailinator.com")
+    signup_page.enter_email("afola@mailinator.com")
     signup_page.enter_phoneNumber(fake.phone_number())
     signup_page.enter_businessName("Capitalism")
     signup_page.enter_rcNumber('RC1234567890')
