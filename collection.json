@@ -1,0 +1,287 @@
+{
+    "collections": [
+        {
+            "id": "34568f5e-bf82-412c-89b1-ebdec23b7faf",
+            "name": "API testing basics",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T11:12:09.000Z",
+            "updatedAt": "2024-08-03T06:52:51.000Z",
+            "uid": "32444128-34568f5e-bf82-412c-89b1-ebdec23b7faf",
+            "isPublic": false
+        },
+        {
+            "id": "d4f6c0a2-3c91-4fea-9bfe-3ee993b03e54",
+            "name": "Adjutor API Service",
+            "owner": "32444128",
+            "createdAt": "2024-07-27T05:45:24.000Z",
+            "updatedAt": "2024-08-03T05:13:07.000Z",
+            "uid": "32444128-d4f6c0a2-3c91-4fea-9bfe-3ee993b03e54",
+            "isPublic": false
+        },
+        {
+            "id": "8370d555-54c1-4222-aa62-4f01a8135f93",
+            "name": "Adjutor API Service QA Assessment",
+            "owner": "32444128",
+            "createdAt": "2024-08-09T11:17:10.000Z",
+            "updatedAt": "2024-08-09T11:19:42.000Z",
+            "uid": "32444128-8370d555-54c1-4222-aa62-4f01a8135f93",
+            "isPublic": false
+        },
+        {
+            "id": "ea135a34-6883-4bbd-9a56-193658821487",
+            "name": "Chai.js tutorial",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T21:09:41.000Z",
+            "updatedAt": "2024-07-04T22:52:03.000Z",
+            "uid": "32444128-ea135a34-6883-4bbd-9a56-193658821487",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2022-12-27T16:39:56.000Z",
+                "from": "1559645-301fe243-1705-45b7-b411-5e0b0fcc999f"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "e4a9243b-8af9-44b6-acbb-e4ec038b463f",
+            "name": "Contract Testing",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T00:34:55.000Z",
+            "updatedAt": "2024-01-23T00:34:55.000Z",
+            "uid": "32444128-e4a9243b-8af9-44b6-acbb-e4ec038b463f",
+            "isPublic": false
+        },
+        {
+            "id": "e5f3f6fb-80eb-4755-8448-29d5933fcac9",
+            "name": "Galaxy Testing and Automation",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T21:11:25.000Z",
+            "updatedAt": "2024-01-19T21:11:25.000Z",
+            "uid": "32444128-e5f3f6fb-80eb-4755-8448-29d5933fcac9",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2022-12-09T16:47:57.000Z",
+                "from": "1559645-bee680f4-9182-4924-b88d-1ad08faacd56"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "4da1f59d-b628-4085-abda-8081974d63ed",
+            "name": "HNG Stage 2 - JSON Placeholder API",
+            "owner": "32444128",
+            "createdAt": "2024-07-11T09:04:33.000Z",
+            "updatedAt": "2024-07-11T09:05:19.000Z",
+            "uid": "32444128-4da1f59d-b628-4085-abda-8081974d63ed",
+            "isPublic": false
+        },
+        {
+            "id": "8bb835ac-40c1-4fe3-8721-162a3d1a473d",
+            "name": "HNG Stage 2 - JSON Placeholder API",
+            "owner": "32444128",
+            "createdAt": "2024-07-08T04:40:06.000Z",
+            "updatedAt": "2024-07-09T10:25:08.000Z",
+            "uid": "32444128-8bb835ac-40c1-4fe3-8721-162a3d1a473d",
+            "isPublic": false
+        },
+        {
+            "id": "b19a479a-2737-4d14-8ffc-5315054ca00b",
+            "name": "HNG Stage 3 - Timbu API",
+            "owner": "32444128",
+            "createdAt": "2024-07-13T03:29:34.000Z",
+            "updatedAt": "2024-07-13T21:14:23.000Z",
+            "uid": "32444128-b19a479a-2737-4d14-8ffc-5315054ca00b",
+            "isPublic": false
+        },
+        {
+            "id": "76372e6a-7c34-4482-ad71-3366c878ab9f",
+            "name": "HNG Stage 4 - Deactivate Invitation Link",
+            "owner": "32444128",
+            "createdAt": "2024-07-20T12:59:53.000Z",
+            "updatedAt": "2024-07-20T13:00:20.000Z",
+            "uid": "32444128-76372e6a-7c34-4482-ad71-3366c878ab9f",
+            "isPublic": false
+        },
+        {
+            "id": "bcdf1b3e-21ec-4308-a4d3-66c7fb363fe8",
+            "name": "HNG Stage 5 - Team Cyborg",
+            "owner": "32444128",
+            "createdAt": "2024-07-28T13:48:07.000Z",
+            "updatedAt": "2024-08-01T13:38:20.000Z",
+            "uid": "32444128-bcdf1b3e-21ec-4308-a4d3-66c7fb363fe8",
+            "isPublic": false
+        },
+        {
+            "id": "2e17ef38-f761-4eca-a97c-f381f932984f",
+            "name": "Hermoney",
+            "owner": "32444128",
+            "createdAt": "2024-07-04T22:55:45.000Z",
+            "updatedAt": "2024-07-04T23:05:41.000Z",
+            "uid": "32444128-2e17ef38-f761-4eca-a97c-f381f932984f",
+            "isPublic": false
+        },
+        {
+            "id": "df194e12-e700-4f26-9f1d-a64f7b309714",
+            "name": "Ile Doola",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T12:50:46.000Z",
+            "updatedAt": "2024-01-30T13:26:22.000Z",
+            "uid": "32444128-df194e12-e700-4f26-9f1d-a64f7b309714",
+            "isPublic": false
+        },
+        {
+            "id": "7cce73ce-0f08-416a-b415-8129f063a9cd",
+            "name": "Integration Testing",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T00:34:55.000Z",
+            "updatedAt": "2024-01-23T00:34:55.000Z",
+            "uid": "32444128-7cce73ce-0f08-416a-b415-8129f063a9cd",
+            "isPublic": false
+        },
+        {
+            "id": "13ef8207-8e88-46b0-bffa-93448431fc8f",
+            "name": "Intro to Writing Tests",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T00:34:55.000Z",
+            "updatedAt": "2024-01-23T00:34:55.000Z",
+            "uid": "32444128-13ef8207-8e88-46b0-bffa-93448431fc8f",
+            "isPublic": false
+        },
+        {
+            "id": "52588445-88bc-4615-a994-6b2cbaba79f2",
+            "name": "Intro to writing tests - with examples",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T20:25:06.000Z",
+            "updatedAt": "2024-01-19T20:25:06.000Z",
+            "uid": "32444128-52588445-88bc-4615-a994-6b2cbaba79f2",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2021-04-29T15:54:33.000Z",
+                "from": "1559645-142a747b-0386-4aa2-9336-7db74659d496"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "a4f5bc13-11b9-44d0-a6da-af877a9e1697",
+            "name": "Mock Data Generation",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T00:34:55.000Z",
+            "updatedAt": "2024-01-23T00:34:55.000Z",
+            "uid": "32444128-a4f5bc13-11b9-44d0-a6da-af877a9e1697",
+            "isPublic": false
+        },
+        {
+            "id": "ace1689e-3ebe-40ea-8cea-fe4017691db1",
+            "name": "Performance Testing",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T00:34:56.000Z",
+            "updatedAt": "2024-01-23T00:34:56.000Z",
+            "uid": "32444128-ace1689e-3ebe-40ea-8cea-fe4017691db1",
+            "isPublic": false
+        },
+        {
+            "id": "b1f8b360-523f-4f69-94bd-49bfd7cf4732",
+            "name": "Platzi Fake Store API",
+            "owner": "32444128",
+            "createdAt": "2024-05-17T13:44:49.000Z",
+            "updatedAt": "2024-05-17T13:44:49.000Z",
+            "uid": "32444128-b1f8b360-523f-4f69-94bd-49bfd7cf4732",
+            "isPublic": false
+        },
+        {
+            "id": "64e9485e-9ae0-46c9-b99a-af759c2b5cf1",
+            "name": "Platzi-Fake-Store",
+            "owner": "32444128",
+            "createdAt": "2024-05-17T13:24:41.000Z",
+            "updatedAt": "2024-05-17T15:29:40.000Z",
+            "uid": "32444128-64e9485e-9ae0-46c9-b99a-af759c2b5cf1",
+            "isPublic": false
+        },
+        {
+            "id": "5c4700a7-94d0-4a4f-8f23-2caf305a623c",
+            "name": "Postman: An Introduction for Testers",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T21:12:31.000Z",
+            "updatedAt": "2024-01-19T21:12:31.000Z",
+            "uid": "32444128-5c4700a7-94d0-4a4f-8f23-2caf305a623c",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2021-10-01T23:09:15.000Z",
+                "from": "1559645-6ad1c4d7-cea4-4216-a29c-39bfcad5b767"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "47332856-c106-4520-ad67-cb26087b70de",
+            "name": "REST API basics: CRUD, test & variable",
+            "owner": "32444128",
+            "createdAt": "2024-07-08T04:39:44.000Z",
+            "updatedAt": "2024-07-08T04:39:44.000Z",
+            "uid": "32444128-47332856-c106-4520-ad67-cb26087b70de",
+            "isPublic": false
+        },
+        {
+            "id": "6b643220-cb33-47a1-9110-1428fc3e65ce",
+            "name": "Regression Testing",
+            "owner": "32444128",
+            "createdAt": "2024-01-23T00:34:56.000Z",
+            "updatedAt": "2024-01-23T00:34:56.000Z",
+            "uid": "32444128-6b643220-cb33-47a1-9110-1428fc3e65ce",
+            "isPublic": false
+        },
+        {
+            "id": "9df8ecdb-48c8-4c40-8c84-de7b9113e57d",
+            "name": "Review Postman Test Results",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T21:13:36.000Z",
+            "updatedAt": "2024-01-19T21:13:36.000Z",
+            "uid": "32444128-9df8ecdb-48c8-4c40-8c84-de7b9113e57d",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2023-01-09T22:01:57.000Z",
+                "from": "1559645-dab4e46b-f1b0-4c7d-bd7b-42c0eea974db"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "da7560ba-b773-4ebd-8daa-49e430dd426e",
+            "name": "Test script examples",
+            "owner": "32444128",
+            "createdAt": "2024-01-19T21:06:28.000Z",
+            "updatedAt": "2024-01-19T21:06:28.000Z",
+            "uid": "32444128-da7560ba-b773-4ebd-8daa-49e430dd426e",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2021-04-30T23:39:22.000Z",
+                "from": "1559645-820d771d-70ab-452f-9edd-0904dbc315b8"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "8701402b-7b34-40dd-be1c-af0d29d904d4",
+            "name": "Valentino Artisan Coffee House API",
+            "owner": "32444128",
+            "createdAt": "2024-01-22T23:05:06.000Z",
+            "updatedAt": "2024-01-23T00:15:04.000Z",
+            "uid": "32444128-8701402b-7b34-40dd-be1c-af0d29d904d4",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2023-04-30T19:16:20.000Z",
+                "from": "2354738-e6b0fbe6-5385-4751-944f-bd836b13d6e3"
+            },
+            "isPublic": false
+        },
+        {
+            "id": "508767a7-88d6-479d-a8b1-70aa8e2c31a1",
+            "name": "\u2705 Assignment #1",
+            "owner": "32444128",
+            "createdAt": "2024-01-22T23:46:15.000Z",
+            "updatedAt": "2024-01-23T00:26:45.000Z",
+            "uid": "32444128-508767a7-88d6-479d-a8b1-70aa8e2c31a1",
+            "fork": {
+                "label": "Afolarin's fork",
+                "createdAt": "2023-05-07T19:32:47.000Z",
+                "from": "2354738-686451d7-0345-4620-9c2e-f3b936807a4e"
+            },
+            "isPublic": false
+        }
+    ]
+}
