@@ -1,7 +1,5 @@
 # Adjutor API Test Automation Setup and Execution
 
-## Overview
-
 This document provides instructions on setting up and running automated test scripts using Postman collections and Selenium scripts. It also includes a summary of the test results.
 
 ## Setup Instructions
